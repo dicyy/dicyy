@@ -10,5 +10,5 @@
 <p align="left">Feel enjoy to see all my repos!</p>
 
 
-<h2 align="left"><img src="https://transmemes.netlify.app/~media/onii-chan-is-done-for/transparent-clean/402300082.png" height="40"> Language i've been used</h2>
+<h2 align="left"><img src="https://transmemes.netlify.app/~media/onii-chan-is-done-for/transparent-clean/402300082.png" height="40"> My Programming Language So Far</h2>
 
